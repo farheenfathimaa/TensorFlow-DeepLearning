@@ -13,19 +13,21 @@ These videos provide a fantastic introduction to building and training neural ne
 ### What's Included?
 
 Jupyter Notebooks (.ipynb) that walk you through the code and concepts presented in the videos.
-Notes for the video tutorials. Check out the complete notes (Or fork a copy if needed!) provided by [@mrdbourke](https://github.com/mrdbourke) [Notes](https://github.com/mrdbourke/tensorflow-deep-learning)
+
+Notes for the video tutorials. Check out the complete [notes](https://github.com/mrdbourke/tensorflow-deep-learning) (Or fork a copy if needed!) provided by [@mrdbourke](https://github.com/mrdbourke).
 ### Project Structure:
 
 Each Jupyter Notebook corresponds to a specific video in the playlists. The notebooks are well-commented and designed to be clear and easy to follow.
 
 ### Feel free to:
 
-Run the existing notebooks to gain hands-on experience.
-Modify the code to experiment with different parameters and concepts.
-Contribute your own notebooks or improvements (pull requests welcome!).
+* Run the existing notebooks to gain hands-on experience.
+* Modify the code to experiment with different parameters and concepts.
+* Contribute your own notebooks or improvements (pull requests welcome!).
 ### Get Started:
 
-Clone this repository.
-Open Google colab and navigate to the desired notebook.
-Run the code cell by cell or experiment with modifications.
+1. Clone this repository.
+2. Open Google colab and navigate to the desired notebook.
+3. Run the code cell by cell or experiment with modifications.
+
 ##Happy learning!
