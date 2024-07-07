@@ -3,8 +3,11 @@
 Welcome to this repository focused on TensorFlow and Deep Learning fundamentals!
 
 This repository explores the concepts covered in the following YouTube videos:
-**Video 1:** [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 1/2] (https://youtu.be/tpCFfeUEGs8?si=lp4adyKkcTC5GVgI)
-**Video 2:** [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 2/2] (https://youtu.be/ZUKz4125WNI?si=0-il7WZMOHq0D0qy)
+
+**Video 1:** [part-1] (https://youtu.be/tpCFfeUEGs8?si=lp4adyKkcTC5GVgI)
+
+**Video 2:** [part-2] (https://youtu.be/ZUKz4125WNI?si=0-il7WZMOHq0D0qy)
+
 These videos provide a fantastic introduction to building and training neural networks using TensorFlow.
 
 ### What's Included?
