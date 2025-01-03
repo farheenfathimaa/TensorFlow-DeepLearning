@@ -29,4 +29,4 @@ Each Jupyter Notebook corresponds to a specific video in the playlists. The note
 2. Open Google colab and navigate to the desired notebook.
 3. Run the code cell by cell or experiment with modifications.
 
-# Happy learning!
+### *Happy learning!*
